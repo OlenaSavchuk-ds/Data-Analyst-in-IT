@@ -4,3 +4,4 @@ My homework for the course:
 - HW 9.2_Python_Lists            - списки в Python;
 - HW 9.2_Python_DictionariesSetsTuples   словники, набори, кортежі в Python;
 - HW 9.2_Control Flow            - конструкція (if...else) в Python
+- HW 9.3_Python_Cycle FOR        - цикли FOR в Python
