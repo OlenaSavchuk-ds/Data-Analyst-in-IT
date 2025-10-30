@@ -6,3 +6,4 @@ My homework for the course:
 - HW 9.2_Control Flow            - конструкція (if...else) в Python
 - HW 9.3_Python_Cycle FOR        - цикли FOR в Python
 - HW 9.3_Python_Comprehensions   - Comprehensions в Python
+- HW 9.3_Python_Cycle While      - цикли While в Python
