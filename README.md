@@ -9,3 +9,5 @@ My homework for the course:
 - HW 9.3_Python_Cycle While      - цикли While в Python;
 - HW 9.4_Python_FunctionsBasics  - функції в Python;
 - HW 9.4_Python_FunctionsContinuation - функції в Python, продовження;
+- HW 9.5_Python_ModulesExceptions  - модулі та винятки в Python
+- 
