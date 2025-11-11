@@ -11,3 +11,5 @@ My homework for the course:
 - HW 9.4_Python_FunctionsContinuation - функції в Python, продовження;
 - HW 9.5_Python_ModulesExceptions  - модулі та винятки в Python
 - HW 9.5_Python_Classes          - класи в Python
+----------------------------------------------------------------------------
+- Additional HW 1_Python_BasicsCycles - додаткові завдання по Python
