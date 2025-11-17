@@ -13,3 +13,5 @@ My homework for the course:
 - HW 9.5_Python_Classes          - класи в Python
 ----------------------------------------------------------------------------
 - Additional HW 1_Python_BasicsCycles - додаткові завдання по Python
+----------------------------------------------------------------------------
+- HW 10.1_PandasNumPy_Introduction - введення в Pandas та Numpy
