@@ -15,3 +15,4 @@ My homework for the course:
 - Additional HW 1_Python_BasicsCycles - додаткові завдання по Python
 ----------------------------------------------------------------------------
 - HW 10.1_PandasNumPy_Introduction - введення в Pandas та Numpy
+- HW 10.2_Pandas_Basics - основи по роботі з даними в Pandas
