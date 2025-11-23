@@ -16,3 +16,4 @@ My homework for the course:
 ----------------------------------------------------------------------------
 - HW 10.1_PandasNumPy_Introduction - введення в Pandas та Numpy
 - HW 10.2_Pandas_Basics - основи по роботі з даними в Pandas
+- HW 10.3_Pandas_AdvancedDataProcessingMethods - розширені методи обробки даних у Pandas
