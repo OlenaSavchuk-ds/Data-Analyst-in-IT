@@ -19,3 +19,6 @@ My homework for the course:
 - HW 10.3_Pandas_AdvancedDataProcessingMethods - розширені методи обробки даних у Pandas
 - HW 10.4_Pandas_ApplyGroupbyPivot_table - методи apply(), groupby(), pivot_table() у Pandas
 - HW 10.5_Pandas_Pivot_table_Example - пропрацьований приклад створення зведеної таблиці у Pandas
+----------------------------------------------------------------------------
+- HW 11.1_Data visualization with Pandas - Візуалізація даних в Pandas
+  
